@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue1>
+
+    <page n="1">
+        <title_page>
+            <title><alt type="font" name="woodblock"/>Issue One</title>
+            <image type="cover">
+                <name>issue1cover.jpg</name>
+                <path type="url"
+                    >"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol 1 issue
+                    1\issue1cover.jpg"</path>
+            </image>
+        </title_page>
+    </page>
+
+    <page n="2">
+        <dialogue who="MG">Y'know, you really <alt type="bold">ruined</alt> my afternoon.</dialogue>
+        <image type="normal">
+            <name>pg2.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
+                1 issue 1\pg2.jpg"</path>
+        </image>
+    </page>
+
+    <page n="3">
+        <dialogue who="MG">Well, now that I've got you all to myself...</dialogue>
+        <sound>CHA-THOOM!</sound>
+        <image type="normal">
+            <name>pg3.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
+                1 issue 1\pg3.jpg"</path>
+        </image>
+    </page>
+
+    <page n="4">
+        <dialogue who="MG">
+            <emphasis type="accent">Sigh</emphasis>
+        </dialogue>
+        <dialogue who="MG">If I keep this up I'm going to give myself a heart attack!</dialogue>
+        <image type="normal">
+            <name>pg4.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
+                1 issue 1\pg4.jpg"</path>
+        </image>
+    </page>
+
+    <page n="5">
+        <caption type="flashback"><alt type="bold">F</alt>our months ago...</caption>
+        <dialogue who="DG">If you keep that up, you're going to give yourself a <alt type="bold"
+                >heart attack!</alt></dialogue>
+        <dialogue who="MG"><alt type="bold">Jesus, Mom!</alt> I'm just reading a comic book! I'll be
+            out in a minute!</dialogue>
+        <dialogue who="DG">Well, you need to <alt type="bold">stop</alt> reading that comic book and
+            start getting ready. You're going to be late for school!</dialogue>
+        <dialogue who="MG">Don't worry... I won't be late.</dialogue>
+        <image type="normal">
+            <name>pg5.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
+                1 issue 1\pg5.jpg"</path>
+        </image>
+    </page>
+
+
+</issue1>
