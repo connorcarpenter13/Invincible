@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cbml xmlns="http://www.cbml.org/schema" version="1.0">
+    
+    <metadata>
+        <title>Invincible</title>
+        <creator>ROBERT KIRKMAN (CO-CREATOR, WRITER, LETTERER)Cory Walker( Co-Creator, Artist) Billl
+            Crabtree(Colorist)</creator>
+        <publisher>Jim Valentino(ImageComics)</publisher>
+        <date>Apri 2003</date>
+        <language>english</language>
+        <issue num="3">Compendium 1</issue>
+        <link>https://archive.org/details/invincible-compendiums/Invincible%2C%20Vol.%201/page/n51/mode/2up</link>
+    </metadata>
+    
+    <comic>
+        <page n="52">
+            <panel p="1">
+                <dialogue speaker="Mayor?">WE ARE CURRENTLY WORKING WITH THE AUTHORITIES TO GlVE THEM ALL THE INFORMATION WE   
+                    CAN IN ORDER TO HELP THEM LOCATE THE MISSING STUDENTS. .</dialogue>
+               </panel>
+            <panel p="2">
+                <dialogue speaker="Mayor"></dialogue>
+            </panel>
+        </page>
+     
+        
+        
+        
+        
+        
+    </comic>
+    
+    
+    
+    
+</cbml>
