@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cbml xmlns="http://www.cbml.org/schema" version="1.0">
+
+    <metadata>
+        <title>Invincible</title>
+        <creator>ROBERT KIRKMAN (CO-CREATOR, WRITER, LETTERER)Cory Walker( Co-Creator, Artist) Billl
+            Crabtree(Colorist)</creator>
+        <publisher>Jim Valentino(ImageComics)</publisher>
+        <date>Apri 2003</date>
+        <language>english</language>
+        <link>https://archive.org/details/20210523_20210523_0901/Invincible%20004%20%282003%29%20%28digital%29%20%28Minutemen-InnerDemons%29/page/n2/mode/1up</link>
+    </metadata>
+
+    <comic>
+        <page n="3">
+            <panel p="1">
+                <image/>
+                <dialogue speaker="robot">REMARKABLE. THE GAME BOX PROCESSOR IS SO ADVANCED IT COULD
+                    OPERATE THIS MACHINE FOR YEARS WITH A BUROUT RATE OF LESS THAN TEN PERCENT! HAD
+                    WE NOT STOPPED THE MAULER TWINS BEFORE THEY ACTIVATED THEM THEY WOULD HAVE BEEN
+                    NEARLY UNSTOPPABLE. FASCINATING. SIMPLY FASCINATING.</dialogue>
+                <dialogue speaker="Invincible">ROBOT?</dialogue>
+            </panel>
+        </page>
+        <page n="4">
+            <panel p="1">
+                <image/>
+                <dialogue speaker="robot">HELLO, INVINCIBLE. WHAT CAN I DO FOR YOU?</dialogue>
+            </panel>
+            <panel p ="2">
+                <image></image>
+                <dialogue speaker = "Invincible">I'M TRYING TO FIND EVE... DO YOU KNOW WHERE SHE IS?</dialogue>
+            </panel>
+            <panel p = "3">
+                <image></image>
+                <dialogue speaker = "robot">EVE AND REX ARE OUT ON A MISSION RIGHT NOW, BUT THEY SHOULD BE CHECKING IN HERE BEFORE THEY GO HOME FOR THE NIGHT.</dialogue>
+                
+            </panel>
+            <panel p ="4">
+                <image></image>
+                <dialogue speaker ="Invincible">CRAP... I REALLY NEED TO TALK TO HER.</dialogue>
+                <dialogue speaker = "robot">WOULD YOU LIKE ME TO GIVE HER A MESSAGE? WAIT A MINUTE YOU KNOW SHE'S DATING REX, RIGHT?</dialogue>
+                <dialogue speaker = "Invincible"><bold>YEAH</bold>. ...THAT'S <bold>NOT</bold> WHAT THIS IS ABOUT AT ALL. </dialogue>
+            </panel>
+            <panel p = "5"> 
+                <image></image>
+                <dialogue speaker = "Invincible">IT'S THESE MALL BOMBINGS. UM... WELL... THIS IS GOING TO SOUND WEIRD, BUT... SOMEONE IS TURNING KIDS FROM OUR SCHOOL INTO HUMAN BOMB.</dialogue>
+            
+            
+            </panel>
+            <panel p ="6">
+                <image></image>
+                <dialogue speaker = "robot">I KNOW.</dialogue>
+                
+            </panel>
+
+
+
+        </page>
+
+
+
+
+
+
+    </comic>
+
+
+
+
+</cbml>
