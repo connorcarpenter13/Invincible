@@ -24,7 +24,7 @@
 
     <page n="3">
         <dialogue who="MG">Well, now that I've got you all to myself...</dialogue>
-        <sound>CHA-THOOM!</sound>
+        <sound type="effect">CHA-THOOM!</sound>
         <image type="normal">
             <name>pg3.jpg</name>
             <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
@@ -36,6 +36,7 @@
         <dialogue who="MG">
             <emphasis type="accent">Sigh</emphasis>
         </dialogue>
+        <sound type="effect">THOOM!</sound>
         <dialogue who="MG">If I keep this up I'm going to give myself a heart attack!</dialogue>
         <image type="normal">
             <name>pg4.jpg</name>
@@ -60,5 +61,110 @@
         </image>
     </page>
 
+    <page n="6">
+        <dialogue who="MG">See. what'd I tell you?</dialogue>
+        <dialogue who="DG">Ready, with ten minutes to spare. I should never have doubted you,
+            Son.</dialogue>
+        <dialogue who="MG">Where's Dad at? Did he come home last night?</dialogue>
+        <dialogue who="DG">No, he's had a lot of trouble at work, lately. I just wish I knew where
+            he was.</dialogue>
+        <dialogue who="MG">Can you turn the TV on, please?</dialogue>
+        <dialogue who="DG">Sure.</dialogue>
+        <sound type="tv">...Using a dragon-like monster to enslave a portion of Taiwan. New reports
+            reveal the blurred figure seen in this amateure photograph to be none other than <alt
+                type="bold">Omni-Man,</alt> defender of democracy.</sound>
+        <sound type="tv">Eyewitness reports are that the battle has been raging for nearly ten
+            hours, destroying portions of the town in its wake. Stay tuned to channel six, Action
+            News for any further information.</sound>
+        <dialogue who="MG">Well, now you know where he is.</dialogue>
+        <dialogue who="DG">I hope he brings back something nice for me. I've never been to
+            Taiwan.</dialogue>
+        <image type="normal">
+            <name>pg6.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
+                1 issue 1\pg6.jpg"</path>
+        </image>
+    </page>
+
+    <page n="7">
+        <dialogue who="WC">Hey! Mark, wait up!</dialogue>
+        <dialogue who="MG">Oh. Hey, William. What's up?</dialogue>
+        <dialogue who="WC">A few of us are gonna go hang out at Shenanigans tonight. Do you want to
+            tag along?</dialogue>
+        <dialogue who="MG">No can do, <nickname who="WC" type="friendly">Pal</nickname>. I've got to
+            be at Burger Mart in about twenty minutes!</dialogue>
+        <dialogue who="WC">Oh, yeah. Forgot about you having the job... Sucks to be you.</dialogue>
+        <dialogue who="MG">Thanks, man. I'll see you later.</dialogue>
+        <image type="normal">
+            <name>pg7.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol
+                1 issue 1\pg7.jpg"</path>
+        </image>
+    </page>
+    
+    <page n="8">
+        <dialogue who="MG">It's about time.</dialogue>
+        <image type="normal">
+            <name>pg8.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol 1 issue 1\pg8.jpg"</path>
+        </image>
+    </page>
+    
+    <page n="9">
+        <dialogue who="DG">Let's go ahead and start. It doesn't look like he's going to be home any time soon.</dialogue>
+        <dialogue who="MG">I had a pretty interesting day--</dialogue>
+        <sound type="effect">WOOOOOOOOOSH!</sound>
+        <dialogue who="OM">Sorry I'm late. There was an enchanted flood in Egypt I had to deal with on the way over.</dialogue>
+        <image type="normal">
+            <name>pg9.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol 1 issue 1\pg9.jpg"</path>
+        </image>
+    </page>
+
+<page n="10">
+    <dialogue who="DG">Did you take care of that dragon?</dialogue>
+    <dialogue who="OM">Yeah, once I found out who was controlling the thing, there wasn't much to it. The hard part was keeping the civilians safe while I figured out who was behind it all.</dialogue>
+    <dialogue who="DG">Your publisher called. He wanted to check and see how the next book was coming along. I told him you were on one of your research trips.</dialogue>
+    <dialogue who="OM">I guess I'll take a day off this weekend and write a book for them. I'll have to pick up a couple spare keyboards. I hope the Guardians of the Globe can cover for me.</dialogue>
+    <dialogue who="DG">So... how was <alt type="bold">your</alt> day, Mark?</dialogue>
+    <dialogue who="MG">Fine. I think I'm finally getting superpowers.</dialogue>
+    <dialogue who="DG">That's nice. Can you pass the potatoes?</dialogue>
+    <image type="normal">
+        <name>pg10.jpg</name>
+        <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol 1 issue 1\pg10.jpg"</path>
+    </image>
+</page>
+    
+    <page n="11">
+        <dialogue who="MG">Okay...</dialogue>
+        <dialogue who="MG">...Dad says it's just a reflex... So if I <alt type="bold">can</alt> fly... It should just happen when I jump off.</dialogue>
+        <dialogue who="MG">As long as I have my dad's invulnerability, this shouldn't even hurt if I hit the ground.</dialogue>
+        <dialogue who="MG">...But if I can't fly yet... Then it's possible that I'm not invulnerable yet... ...</dialogue>
+        <dialogue who="MG">Oh... What the heck!</dialogue>
+        <dialogue who="MG"><alt type="bold">Whoa!</alt></dialogue>
+        <dialogue who="MG"><alt type="bold">Too cool!</alt></dialogue>
+        <image type="normal">
+            <name>pg11.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol 1 issue 1\pg11.jpg"</path>
+        </image>
+    </page>
+    
+    <page n="12">
+        <dialogue who="titan">Boy, we really screwed that one up!</dialogue>
+        <dialogue who="grunt_1"><alt type="bold">We?</alt></dialogue>
+        <dialogue who="titan">Oh, so it's my fault the cops showed up so quick?</dialogue>
+        <dialogue who="grunt_1">It was a diamond heist! We <alt type="bold">knew</alt> there would be cops there! Why do you think we brought you along?!</dialogue>
+        <dialogue who="grunt_2">You were there to take care of the cops so we could calmly make our getaway.</dialogue>
+        <dialogue who="grunt_2">You weren't supposed to run with us, you idiot!</dialogue>
+        <dialogue who="titan">Just because bullets bounce off me doesn't mean they feel like back rubs! There were at least six cops back there ready to open fire!</dialogue>
+        <dialogue who="titan">Besides... they won't catch us.</dialogue>
+        <dialogue who="grunt_2">Whatever, just get us over that fence.</dialogue>
+        <image type="normal">
+            <name>pg12.jpg</name>
+            <path type="url">"C:\Users\kenda\Documents\GitHub\textEncoding-Hub\Invincible\images\vol 1 issue 1\pg12.jpg"</path>
+        </image>
+        
+        
+    </page>
 
 </issue1>
