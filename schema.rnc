@@ -1,7 +1,7 @@
 start = xml
 xml = element xml{metadata, comic}
 
-metadata = element metadata {title, creator, publisher, date, language, issue, length}
+metadata = element metadata {title, creator, publisher, date, language, issue, link}
 
 title = element title{text}
 creator = element creator{text}
@@ -10,7 +10,7 @@ date = element date{text}
 language = element language{text}
 issue = element issue{n, text}
 n = attribute n {xsd:int}
-length = element length{text}
+link = element link{text}
 
 comic = element comic{page, text}
 
