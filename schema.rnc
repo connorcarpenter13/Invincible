@@ -14,13 +14,14 @@ link = element link{text}
 
 comic = element comic{page, text}
 
-page = element page{panel, caption, dialogue}
+page = element page{panel, caption, dialogue, action}
 
 panel = element panel{p, mixed{caption? | dialogue?}}
 p = attribute p{xsd:int}
 
 caption = element caption{speaker, mixed{sound?,bold?} }
 dialogue = element dialogue{speaker, mixed{sound?,bold?} }
+action = element action{speaker, mixed{sound?,bold?} }
 speaker = attribute speaker{text}
 sound = element sound{text}
 bold = element bold{text}
