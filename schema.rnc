@@ -14,7 +14,7 @@ link = element link{text}
 
 comic = element comic{page, text}
 
-page = element page{panel, caption, dialogue, action}
+page = element page{n, panel, caption, dialogue, action}
 
 panel = element panel{p, mixed{caption? | dialogue?}}
 p = attribute p{xsd:int}
