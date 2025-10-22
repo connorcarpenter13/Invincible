@@ -21,7 +21,7 @@ p = attribute p{xsd:int}
 
 caption = element caption{speaker, mixed{sound*,bold*} }
 dialogue = element dialogue{speaker, mixed{sound*,bold*} }
-action = element action{speaker, mixed{sound*,bold*} }
+action = element action{text}
 speaker = attribute speaker{text}
 sound = element sound{text}
 bold = element bold{text}

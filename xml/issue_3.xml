@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
     <metadata>
@@ -9,7 +10,7 @@
         <publisher>Jim Valentino(ImageComics)</publisher>
         <date>Apri 2003</date>
         <language>english</language>
-        <issue num="3">Compendium 1</issue>
+        <issue n="3">Compendium 1</issue>
         <link>https://archive.org/details/invincible-compendiums/Invincible%2C%20Vol.%201/page/n51/mode/2up</link>
     </metadata>
 
