@@ -10,14 +10,13 @@
         <publisher>Jim Valentino(ImageComics)</publisher>
         <date>Apri 2003</date>
         <language>english</language>
-        <issue n = "4">issue 4</issue>
+        <issue n="4">issue 4</issue>
         <link>https://archive.org/details/20210523_20210523_0901/Invincible%20004%20%282003%29%20%28digital%29%20%28Minutemen-InnerDemons%29/page/n2/mode/1up</link>
     </metadata>
 
     <comic>
-        <page n= "3">
+        <page n="3">
             <panel p="1">
-                
                 <dialogue speaker="robot">REMARKABLE. THE GAME BOX PROCESSOR IS SO ADVANCED IT COULD
                     OPERATE THIS MACHINE FOR YEARS WITH A BUROUT RATE OF LESS THAN TEN PERCENT! HAD
                     WE NOT STOPPED THE MAULER TWINS BEFORE THEY ACTIVATED THEM THEY WOULD HAVE BEEN
@@ -27,45 +26,97 @@
         </page>
         <page n="4">
             <panel p="1">
-                
                 <dialogue speaker="robot">HELLO, INVINCIBLE. WHAT CAN I DO FOR YOU?</dialogue>
             </panel>
-            <panel p ="2">
-                
-                <dialogue speaker = "Invincible">I'M TRYING TO FIND EVE... DO YOU KNOW WHERE SHE IS?</dialogue>
+            <panel p="2">
+                <dialogue speaker="Invincible">I'M TRYING TO FIND EVE... DO YOU KNOW WHERE SHE
+                    IS?</dialogue>
             </panel>
-            <panel p = "3">
-                
-                <dialogue speaker = "robot">EVE AND REX ARE OUT ON A MISSION RIGHT NOW, BUT THEY SHOULD BE CHECKING IN HERE BEFORE THEY GO HOME FOR THE NIGHT.</dialogue>
-                
+            <panel p="3">
+                <dialogue speaker="robot">EVE AND REX ARE OUT ON A MISSION RIGHT NOW, BUT THEY
+                    SHOULD BE CHECKING IN HERE BEFORE THEY GO HOME FOR THE NIGHT.</dialogue>
             </panel>
-            <panel p ="4">
-                
-                <dialogue speaker ="Invincible">CRAP... I REALLY NEED TO TALK TO HER.</dialogue>
-                <dialogue speaker = "robot">WOULD YOU LIKE ME TO GIVE HER A MESSAGE? WAIT A MINUTE YOU KNOW SHE'S DATING REX, RIGHT?</dialogue>
-                <dialogue speaker = "Invincible"><bold>YEAH</bold>. ...THAT'S <bold>NOT</bold> WHAT THIS IS ABOUT AT ALL. </dialogue>
+            <panel p="4">
+                <dialogue speaker="Invincible">CRAP... I REALLY NEED TO TALK TO HER.</dialogue>
+                <dialogue speaker="robot">WOULD YOU LIKE ME TO GIVE HER A MESSAGE? WAIT A MINUTE YOU
+                    KNOW SHE'S DATING REX, RIGHT?</dialogue>
+                <dialogue speaker="Invincible"><bold>YEAH</bold>. ...THAT'S <bold>NOT</bold> WHAT
+                    THIS IS ABOUT AT ALL. </dialogue>
             </panel>
-            <panel p = "5"> 
-                
-                <dialogue speaker = "Invincible">IT'S THESE MALL BOMBINGS. UM... WELL... THIS IS GOING TO SOUND WEIRD, BUT... SOMEONE IS TURNING KIDS FROM OUR SCHOOL INTO HUMAN BOMB.</dialogue>
-            
-            
+            <panel p="5">
+                <dialogue speaker="Invincible">IT'S THESE MALL BOMBINGS. UM... WELL... THIS IS GOING
+                    TO SOUND WEIRD, BUT... SOMEONE IS TURNING KIDS FROM OUR SCHOOL INTO HUMAN
+                    BOMB.</dialogue>
             </panel>
-            <panel p ="6">
-                
-                <dialogue speaker = "robot">I KNOW.</dialogue>
-                
+            <panel p="6">
+                <dialogue speaker="robot">I KNOW.</dialogue>
             </panel>
-
-
-
         </page>
-
-
-
-
-
-
+        <page n="5">
+            <panel p="1">
+                <dialogue speaker="robot">Hello, Invincible. What can I do for you?</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Invincible"> I’m trying to find Eve... Do you know where she is?
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Robot"> Eve and Rex went out on a mission right now. But she
+                    should be checking in here before too long. She might be home for the
+                    night.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Invincible"> Crap... I really need to talk to her. </dialogue>
+                <dialogue speaker="Robot"> Would you like me to give her a message? </dialogue>
+                <dialogue speaker="Robot"> Wait a minute, you know she's dating rex, right? </dialogue>
+                <dialogue speaker="Invincible"> Yeah. That’s not what this is about at
+                    all.</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Invincible"> It’s these mall bombings, man. While this is going
+                    to sound weird... someone’s turning kids into human bombs. </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Robot">I know.</dialogue>
+            </panel>
+        </page>
+        <page n="6">
+            <panel p="1">
+                <dialogue speaker="Invincible"> I mean, it’s late and all but I just wanted to let
+                    her know so that— wait what? </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Robot"> Residue found at the blast sites indicated that the
+                    timing mechanisms in all the bombs were organic in nature. More than likely,
+                    human circulatory systems provided the catalyst. From that, it was merely
+                    process of elimination to determine the age and relation of the humans that are
+                    being used as bombs. I didn’t know they were all from your school in particular,
+                    but I’m sure I would have... eventually. </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Invincible"> Well... I’m only sure that the most recent one went
+                    to my school, but he's one of the three kids that are missing. </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Eve"> Well, if it isn’t our new pal, Invincible what are you
+                    doing here? </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Invincible"> I think the mall bombing are connected to the
+                    missing kids at our school. </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Rex">Oh, god, that’s awful.</dialogue>
+                <dialogue speaker="Rex">Bye, babe.</dialogue>
+                <dialogue speaker="Rex">*smeck*</dialogue>
+                <dialogue speaker="Eve">Any idea who’s behind it?</dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Robot"> No, and there’s nothing we can do about that tonight. I
+                    suggest you two go home and get some sleep. Then keep your eyes open at school
+                    tomorrow. I’ll let you know if I figure out anything on my own. </dialogue>
+            </panel>
+        </page>
     </comic>
 
 
