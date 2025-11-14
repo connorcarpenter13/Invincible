@@ -252,11 +252,135 @@
                         <bold>MY</bold> LECTURES. <bold>MR. GRAYSON,</bold> JUST BECAUSE YOU DON’T
                     ALLOT ENOUGH TIME FOR <bold>TALKING</bold> WHEN YOU TWO ARE <bold>ALONE</bold>
                     DOESN’T MEAN YOU CAN MAKE UP FOR THAT IN MY CLASS.</dialogue>
-                
-                <dialogue speaker="Mr. Hiles">QUITE FRANKLY, I EXPECT MORE OUT OF YOU
-                    TWO... lovebirds.</dialogue>
+                <dialogue speaker="Mr. Hiles">QUITE FRANKLY, I EXPECT MORE OUT OF YOU TWO...
+                    lovebirds.</dialogue>
             </panel>
         </page>
+        <page n="11">
+            <panel p="1">
+                <dialogue speaker="class">HA! HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!HA!</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Invincible">She's <bold>Not</bold> my girlfriend.</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Mr. Hiles">Sorry. I was jumping to conclusions, but the fact
+                    reamins that you've caused me to waste the last ten minutes of my class
+                    today.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Invincible">Sorry, sir. I'll try to make sure it diesn't happen
+                    again.</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mr. Hiles">You do that.</dialogue>
+                <dialogue speaker="Invincible">Jerk.</dialogue>
+            </panel>
+        </page>
+        <page n="12">
+            <panel p="1">
+                <dialogue speaker="none"/>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Invincible">...</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Invincible">So... that was uncomfortable.</dialogue>
+                <dialogue speaker="Eve">Yeah...</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Invincible">It wouldn't have been so bad if--</dialogue>
+                <dialogue speaker="Eve">hold on.</dialogue>
+                <dialogue speaker="phone"><sound>Ring, Ring!</sound></dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Eve">Oh, look who it is.</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Eve">hey, Robot. What's up?</dialogue>
+            </panel>
+        </page>
+        <page n="13">
+            <panel p="1">
+                <dialogue speaker="robot">I've BEEN USING SECONDARY OPERATING SYSTEMS TO RUN CHECKS
+                    ON ALL EMPLOYEES OF YOUR HIGH SCHOOL. TEACHERS, CUSTODIANS, BUS DRIVERS,
+                    EVERYONE, AND I-- Holdon.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="none"/>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Invincible">AS I WAS SAYING, I WAS CHECKING THE BACKGROUND, АМР
+                    EMPLOYMENT HISTORIES ON THE EMPLOYEES OF YOUR SCHOOL...</dialogue>
+                <dialogue speaker="sound"><sound>KRAK</sound>!</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="robot">...CROSS-REFERENCING THEIR INFORMATION WITH THE NECESSARY
+                    KNOWLEDGE NEEDED TO CONSTRUCT A BOMB LIKE THE ONES USED IN THE MALL
+                    BOMBINGS.</dialogue>
+            </panel>
+        </page>
+        <page n="14">
+            <panel p="1">
+                <dialogue speaker="robot">I THOUGHT IT MIGHT BE A FUTILE EFFORT, RESULTING IN
+                    NOTHING BUT DEAD ENDS. THANKFULLY, I WAS WRONG.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="robot">SURPRISINGLY, YOUR PHYSICS TEACHER, DAVID HILES IS A
+                    FORMER WEAPONS ENGINEER FOR GLOBALTECH, A MILITARY SANCTIONED RESARCH FIRM. IT'S
+                    NOT DEFINITIVE EVIDENCE OF HIS GUILT, BUT I’M 99.8% SURE THAT HE’S WHO YOU’RE
+                    LOOKING FOR.</dialogue>
+                <dialogue speaker="sound"><sound>BOOM</sound>!</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="robot">AFTER I GET OFF WITH YOU I'M GOING TO PUT IN A CALL TO ΤΗΕ POLICE AND SEE IF I CAN’T ATLEAST GET A SQUAD CAR SENT OUT ТО HIS HOUSE.</dialogue>
+                <dialogue speaker="robot">I'M GOING TO GIVE YOU HIS ADDRESS SO YOU CAN CHECK THE PLACE OUT BEFORE HE GETS HOME FROM SCHOOL.</dialogue>
+            </panel>
+        </page>
+        
+        <page n="15">
+            <panel p="1">
+                <dialogue speaker ="Eve">UH HUH OKAY... Bye.</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker ="Eve">You're not going to believe this!</dialogue>
+                <dialogue speaker ="Invincible">What?</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker ="Eve">I'll tell you on the way. C'mon, we've got to get changed. <bold>to the Cafeteria Dumpster!</bold></dialogue>
+                <dialogue speaker ="Invincible">HA!</dialogue>
+            </panel>
+            
+            <panel p="4">
+                
+                <dialogue speaker ="Invincible">SO... He calls you on a... cell phone?</dialogue>
+            </panel>
+            
+            <panel p="5">
+                <dialogue speaker ="Eve">Sorry... The signal watch is in the shop. JEEZ, what do you <bold>expect</bold>him to call me on?</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker ="Eve">OH!</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker ="students">Hey! why don't you guys find your spot!</dialogue>
+            </panel>
+        </page>
+        
+        
+        <page n="16">
+            <panel p="1">
+                <dialogue speaker ="Eve"></dialogue>
+                <dialogue speaker ="Invincible"></dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker ="Eve">You're not going to believe this!</dialogue>
+                <dialogue speaker ="Invincible">What?</dialogue>
+            </panel>
+           
+        </page>
+        
+        
     </comic>
 
 
