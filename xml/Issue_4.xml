@@ -333,54 +333,231 @@
                 <dialogue speaker="sound"><sound>BOOM</sound>!</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker="robot">AFTER I GET OFF WITH YOU I'M GOING TO PUT IN A CALL TO ΤΗΕ POLICE AND SEE IF I CAN’T ATLEAST GET A SQUAD CAR SENT OUT ТО HIS HOUSE.</dialogue>
-                <dialogue speaker="robot">I'M GOING TO GIVE YOU HIS ADDRESS SO YOU CAN CHECK THE PLACE OUT BEFORE HE GETS HOME FROM SCHOOL.</dialogue>
+                <dialogue speaker="robot">AFTER I GET OFF WITH YOU I'M GOING TO PUT IN A CALL TO ΤΗΕ
+                    POLICE AND SEE IF I CAN’T ATLEAST GET A SQUAD CAR SENT OUT ТО HIS
+                    HOUSE.</dialogue>
+                <dialogue speaker="robot">I'M GOING TO GIVE YOU HIS ADDRESS SO YOU CAN CHECK THE
+                    PLACE OUT BEFORE HE GETS HOME FROM SCHOOL.</dialogue>
             </panel>
         </page>
-        
         <page n="15">
             <panel p="1">
-                <dialogue speaker ="Eve">UH HUH OKAY... Bye.</dialogue>
+                <dialogue speaker="Eve">UH HUH OKAY... Bye.</dialogue>
             </panel>
             <panel p="2">
-                <dialogue speaker ="Eve">You're not going to believe this!</dialogue>
-                <dialogue speaker ="Invincible">What?</dialogue>
+                <dialogue speaker="Eve">You're not going to believe this!</dialogue>
+                <dialogue speaker="Invincible">What?</dialogue>
             </panel>
             <panel p="3">
-                <dialogue speaker ="Eve">I'll tell you on the way. C'mon, we've got to get changed. <bold>to the Cafeteria Dumpster!</bold></dialogue>
-                <dialogue speaker ="Invincible">HA!</dialogue>
+                <dialogue speaker="Eve">I'll tell you on the way. C'mon, we've got to get changed.
+                        <bold>to the Cafeteria Dumpster!</bold></dialogue>
+                <dialogue speaker="Invincible">HA!</dialogue>
             </panel>
-            
             <panel p="4">
-                
-                <dialogue speaker ="Invincible">SO... He calls you on a... cell phone?</dialogue>
-            </panel>
-            
-            <panel p="5">
-                <dialogue speaker ="Eve">Sorry... The signal watch is in the shop. JEEZ, what do you <bold>expect</bold>him to call me on?</dialogue>
+                <dialogue speaker="Invincible">SO... He calls you on a... cell phone?</dialogue>
             </panel>
             <panel p="5">
-                <dialogue speaker ="Eve">OH!</dialogue>
+                <dialogue speaker="Eve">Sorry... The signal watch is in the shop. JEEZ, what do you
+                        <bold>expect</bold>him to call me on?</dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Eve">OH!</dialogue>
             </panel>
             <panel p="6">
-                <dialogue speaker ="students">Hey! why don't you guys find your spot!</dialogue>
+                <dialogue speaker="students">Hey! why don't you guys find your spot!</dialogue>
             </panel>
         </page>
-        
-        
         <page n="16">
             <panel p="1">
-                <dialogue speaker ="Eve"></dialogue>
-                <dialogue speaker ="Invincible"></dialogue>
+                <caption speaker="Invincible"> Well, that really killed our time. What sould we do
+                    now? </caption>
+                <caption speaker="Eve"> Ask him questions I guess. According to the robot, the
+                    police should be on the way. How dangerous could he be? </caption>
             </panel>
             <panel p="2">
-                <dialogue speaker ="Eve">You're not going to believe this!</dialogue>
-                <dialogue speaker ="Invincible">What?</dialogue>
+                <dialogue speaker="Invincible"> Hold it right there, sir. </dialogue>
             </panel>
-           
+            <panel p="3">
+                <dialogue speaker="Mr. Hiles"> I didn’t expect to get caught quite this early, and
+                    certainly more <bold>conventional</bold> authorities when he time did come...
+                </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mr. Hiles"> Very well… Mark, Samantha, please do come inside.
+                </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Eve"> How did you—? </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="man"> Are you kidding me? You're not even wearing a mask.
+                </dialogue>
+            </panel>
+            <panel p="7">
+                <dialogue speaker="Mr. Hiles"> Follow me, I'll show you to the fourth missing
+                    student. I assure you, I have no intention of resisting. </dialogue>
+                <dialogue speaker="Invincible">
+                    <bold>Fourth?</bold>
+                </dialogue>
+                <dialogue speaker="Mr. Hiles"> Yes. One of them hasn’t been reported missing yet.
+                </dialogue>
+            </panel>
         </page>
-        
-        
+        <page n="17">
+            <panel p="1">
+                <dialogue speaker="Mr. Hiles"> It's just through here. </dialogue>
+                <dialogue speaker="Eve">It?</dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mr. Hiles"> YES... IT. I САN'Т THINK OF A MORE FITTING SEGUE INTO
+                    MY CONFESSION... YOU SEE... IT WAS THE CONSTANT PESTERING AND BELITTLING FROM
+                    THINGS LIKE WHAT YOU SEE BEFORE YOU THAT CAUSED MY SON TO COMMIT SUICIDE. MY
+                    SON’S SUICIDE RESULTING IN MY DIVORCE... AND MY DIVORCE LED TO МЕ LOSING MY JOB.
+                </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Invincible"><bold>DEREK!</bold></dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Mr. Hiles"> I'll spare you the boring details. IT’S NOT THE DEATH
+                    OF MY SON I'M AVENGING... THAT WOULD ВЕ FAR TOO CLICHE. NO... IT’S THE
+                    DESTRUCTION OF MY LIFE THAT HAS ΜΕ SEEKING REVENGE. IT’S THE DOMINO EFFECT OF
+                    PAIN AND SORROW THAT THESE MONSTERS CREATE. CHILDREN THAT SPEND TOO MUCH TIME AT
+                    THE MALL... ATTEND PARTIES... CONSUME... ALCHOL... AND PLAY SPORTS, WHEN THEY
+                    SHOULD BE STUDYING, AND DOING HOMEWORK. </dialogue>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Invincible"> What did you do to him? </dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Invincible"> WHAT I DID TO ALL OF THEM. I TURNED HIM INTO A
+                    LIVING BOMB, АN INSTRUMENT WITH WHICH TO EXACT MY EVENGE... MY CRUSADE TO END
+                    THE PAIN AND SORROW CAUSED BY THESE... "POPULAR" KIDS... AND I CAN'T THINK OF A
+                    MORE APPROPRIATE END TO MY CRUSADE... </dialogue>
+            </panel>
+        </page>
+        <page n="18">
+            <panel p="1">
+                <dialogue speaker="Mr. Hiles"> ...Than the <bold>death</bold> of two superheroes!
+                </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="Mr.Hiles"> OH Dear, I MUST HAVE STARTED THE TIMER TOO LATE AFTER
+                    YOU HERE. NO MATTER, YOU'LL HAVE A FEW MORE SECONDS TO-- </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Invincible">I'M NOT WAITING FOR <bold>this</bold>.
+                    c'mere.</dialogue>
+            </panel>
+            <panel p="4">
+                <action>boom</action>
+            </panel>
+            <panel p="5">
+                <dialogue speaker="Invincible">Tha stuff in class today was uncalled for.</dialogue>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Invincible">Y'know you really <bold>ruined</bold> my
+                    afternoon</dialogue>
+            </panel>
+        </page>
+        <page n="19">
+            <panel p="1"/>
+            <panel p="2">
+                <dialogue speaker="Invincible">Well, now that i've got you all to
+                    myself...</dialogue>
+            </panel>
+            <panel p="3"/>
+            <panel p="4">
+                <action>cha-thoom!</action>
+            </panel>
+        </page>
+        <page n="20">
+            <panel p="1"/>
+            <panel p="2">
+                <action>THOOM!</action>
+            </panel>
+            <panel p="3"/>
+            <panel p="4"/>
+            <panel p="5">
+                <dialogue speaker="Invincible"/>
+            </panel>
+            <panel p="6">
+                <dialogue speaker="Invincible">If I keep this up, I'm going to give myself a heart
+                    attack!</dialogue>
+            </panel>
+        </page>
+        <page n="21">
+            <panel p="1"/>
+            <panel p="2">
+                <dialogue speaker="Invincible">So... is it over?</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Eve"> ROBOT IS COMING BY ТО DO A SWEEP OF THE HOUSE TO CHECK FOR
+                    ANYTHING DANGEROUS. I THINK THE POLICE WILL BE WRAPED UP HERE SHORTLY. </dialogue>
+                <dialogue speaker="Eve"> You can just go home if you want. I'm going to leave after
+                    root gets here. </dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="Invincible">Sounds like a plan to me. The sooner I put this
+                    behind me the better</dialogue>
+            </panel>
+        </page>
+        <page n="22">
+            <panel p="1"/>
+            <panel p="2">
+                <dialogue speaker="Invincible">Hey, is dad back yet?</dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Debbie">Not yet. Go upstairs and clean up so we can eat. I
+                    thought I was going to have dinner alone tonight.</dialogue>
+            </panel>
+            <panel p="4"/>
+            <panel p="5">
+                <dialogue speaker="omni-man"> I need to shave... </dialogue>
+            </panel>
+            <panel p="6"/>
+            <panel p="7"/>
+            <panel p="8"/>
+            <panel p="9">Thank god...</panel>
+        </page>
+        <page n="23">
+            <panel p="1"/>
+            <panel p="2"/>
+            <panel p="3">
+                <dialogue speaker="Debbie">So...</dialogue>
+            </panel>
+            <panel p="4">
+                <dialogue speaker="debbie">...Anything interesting happen to either of you
+                    today?</dialogue>
+            </panel>
+        </page>
+        <page n="24">
+            <panel p="1">
+                <dialogue speaker="">I FOUND OUT ONE OF MY TEACHERS WAS TURNING MY CLASSMATES INTO
+                    ORGANIC <bold>BOMBS</bold> IN ORDER TO TAKE REVENGE ON KIDS <bold>HE</bold> FELT
+                    WERE LIKE THE ONES WHO <bold>LIKE</bold> HIS SON TO COMMIT <bold>SUICIDE</bold>.
+                    APPARENTLY HE TURNED <bold>HIMSELF</bold> INTO A BOMB ALSO, AND TRIED TO KILL ME
+                    АND A FRIEND OF MINE, BUT I FLEW HIM TO ANTARCTICA BEFORE HE BLEW UP SO THAT HE
+                    WOULDN’T HURT ANYONE. </dialogue>
+            </panel>
+            <panel p="2">
+                <dialogue speaker="omni-man"> I SPENT THE LAST <bold>EIGHT</bold> MONTHS ENSLAVED BY
+                    AN ARMY FROM AN ALTERNATE DIMENSION, ALTHOUGH IT SEEMS MUCH <bold>LESS</bold>
+                    TIME HAS PASSED HERE. ABOUT A WEEK AGO I LED A REVOLT AGAINST MY CAPTORS AND
+                    REGAINED CONTROL OF MY POWERS. TODAY, A TEAM OF SCIENTISTS FROM THE REBELLION
+                    FOUND A WAY TO GET ME HOME. </dialogue>
+            </panel>
+            <panel p="3">
+                <dialogue speaker="Debbie"> That's nicee. Who's ready for dessert? </dialogue>
+            </panel>
+        </page>
+        <page n="26">
+            <panel p="1">
+                <dialogue speaker="Invincible"> Look out, world-- Here comes
+                        <bold>INVINCIBLE!</bold>
+                </dialogue>
+            </panel>
+        </page>
     </comic>
 
 
